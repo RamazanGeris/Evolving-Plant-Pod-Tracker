@@ -1,0 +1,12 @@
+# Plant Pod Tracker Frontend için temel bağımlılıklar
+# (Not: Asıl bağımlılıklar package.json'da tutulur, bu dosya sadece referans içindir.)
+
+react
+react-dom
+react-router-dom
+@react-three/fiber
+@react-three/drei
+three
+axios
+tailwindcss
+vite 
